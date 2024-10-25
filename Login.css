@@ -1,11 +1,11 @@
 body {
-    background-color: #B9E5E8;
+    background-color: #DFF2EB;
     
   }
 
   form {
-    width: 400px; /* Set a width for your form */
-    margin: 100px auto; /* Centers horizontally and adds top margin */
+    width: 400px; 
+    margin: 100px auto; 
     background-color: #e0f7fa;
     padding: 20px;
     border-radius: 8px;
